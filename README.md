@@ -1,4 +1,4 @@
-# HachBio-Stage0
+# HachBio-Stage0 Task
 
 # Supervised Learning in Cancer Research
 
@@ -24,7 +24,9 @@ In conclusion, supervised learning is a cornerstone of modern cancer research, o
 
 3. Tan, M., & Le, Q. V. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. In \*Proceedings of the 36th International Conference on Machine Learning\* (pp. 6105-6114). PMLR.
 
-4. Zhao, Z., & Anand, R. (2017). Skin lesion segmentation using convolutional neural networks. \*IEEE Transactions on Medical Imaging, 36\*(4), 1031-1041. https://doi.org/10.1109/TMI.2016.2623261
+4. Kaymak, R., Kaymak, Ç., & Uçar, A. (2020). Skin Lesion Segmentation Using Fully Convolutional Networks: A comparative experimental study. Expert Systems with Applications, 161, 113742. https://doi.org/10.1016/j.eswa.2020.113742
+
+
 
 # Additional References from the Poster:
 
@@ -34,3 +36,9 @@ In conclusion, supervised learning is a cornerstone of modern cancer research, o
 ![WhatsApp Image 2024-09-02 at 1 35 53 PM](https://github.com/user-attachments/assets/c84846c4-4708-4a20-8b22-348677562449)
 
 
+# contributions 
+1.  Mohamed S. AboHoussien 
+
+  Lab Advisor School of Medicine, Galala University
+
+2. Wale Joseph (HackBio Admin)
