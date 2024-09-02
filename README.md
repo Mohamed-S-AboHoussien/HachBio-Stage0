@@ -1,4 +1,5 @@
 # HachBio-Stage0 Task
+Authors (@slack): Mohamed S. AboHoussien (@Mohamed S. AboHoussien), Wale Joseph (@wale)
 
 # Supervised Learning in Cancer Research
 
@@ -14,7 +15,13 @@ However, the effectiveness of supervised learning models in cancer detection is 
 
 Despite its advantages, supervised learning also has limitations. It requires large, labeled datasets, which can be expensive and time-consuming to obtain. Additionally, models trained on specific datasets may not generalize well to other populations or types of cancer, necessitating continuous validation and refinement.
 
-In conclusion, supervised learning is a cornerstone of modern cancer research, offering powerful tools for diagnosis, prognosis, and treatment optimization. The application of supervised learning in the real-time detection and classification of skin cancer, as demonstrated by Aboulmagd and her team, highlights the potential of machine learning to revolutionize cancer care. As this technology continues to evolve, it is likely to play an increasingly vital role in improving cancer diagnosis and treatment outcomes, ultimately contributing to more precise and effective healthcare solutions.
+# conclusion
+supervised learning is a cornerstone of modern cancer research, offering powerful tools for diagnosis, prognosis, and treatment optimization. The application of supervised learning in the real-time detection and classification of skin cancer, as demonstrated by Aboulmagd and her team, highlights the potential of machine learning to revolutionize cancer care. As this technology continues to evolve, it is likely to play an increasingly vital role in improving cancer diagnosis and treatment outcomes, ultimately contributing to more precise and effective healthcare solutions.
+
+
+![WhatsApp Image 2024-09-02 at 1 35 53 PM](https://github.com/user-attachments/assets/c84846c4-4708-4a20-8b22-348677562449)
+
+
 
 # References
 
@@ -29,12 +36,9 @@ In conclusion, supervised learning is a cornerstone of modern cancer research, o
 
 
 
-# Additional References from the Poster:
+### Additional References from the Poster:
 
 5. Aboulmagd, B. T., Affifi, S., Taha, R., & Kaur, R. (2023). Mobile application for real-time detection and classification of skin cancer. Poster presented at the German Arab Symposium on Bioinformatics, Cairo, Egypt. 
-
-
-![WhatsApp Image 2024-09-02 at 1 35 53 PM](https://github.com/user-attachments/assets/c84846c4-4708-4a20-8b22-348677562449)
 
 
 # Contributions 
