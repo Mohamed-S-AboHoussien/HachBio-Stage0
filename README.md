@@ -18,18 +18,19 @@ In conclusion, supervised learning is a cornerstone of modern cancer research, o
 
 # References
 
-Bengio, Y. (2009). Learning deep architectures for AI. \*Foundations and Trends in Machine Learning, 2\*(1), 1-127. https://doi.org/10.1561/2200000006
+1. Bengio, Y. (2009). Learning deep architectures for AI. \*Foundations and Trends in Machine Learning, 2\*(1), 1-127. https://doi.org/10.1561/2200000006
 
-Esteva, A., Kuprel, B., Novoa, R. A., Ko, J., Swetter, S. M., Blau, H. M., & Thrun, S. (2017). Dermatologist-level classification of skin cancer with deep neural networks. \*Nature, 542\*(7639), 115-118. https://doi.org/10.1038/nature21056
+2. Esteva, A., Kuprel, B., Novoa, R. A., Ko, J., Swetter, S. M., Blau, H. M., & Thrun, S. (2017). Dermatologist-level classification of skin cancer with deep neural networks. \*Nature, 542\*(7639), 115-118. https://doi.org/10.1038/nature21056
 
-Tan, M., & Le, Q. V. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. In \*Proceedings of the 36th International Conference on Machine Learning\* (pp. 6105-6114). PMLR.
+3. Tan, M., & Le, Q. V. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. In \*Proceedings of the 36th International Conference on Machine Learning\* (pp. 6105-6114). PMLR.
 
-Zhao, Z., & Anand, R. (2017). Skin lesion segmentation using convolutional neural networks. \*IEEE Transactions on Medical Imaging, 36\*(4), 1031-1041. https://doi.org/10.1109/TMI.2016.2623261
+4. Zhao, Z., & Anand, R. (2017). Skin lesion segmentation using convolutional neural networks. \*IEEE Transactions on Medical Imaging, 36\*(4), 1031-1041. https://doi.org/10.1109/TMI.2016.2623261
 
-Additional References from the Poster:
+# Additional References from the Poster:
 
-Aboulmagd, B. T., Affifi, S., Taha, R., & Kaur, R. (2023). Mobile application for real-time detection and classification of skin cancer. Poster presented at the German Arab Symposium on Bioinformatics, Cairo, Egypt. 
+5. Aboulmagd, B. T., Affifi, S., Taha, R., & Kaur, R. (2023). Mobile application for real-time detection and classification of skin cancer. Poster presented at the German Arab Symposium on Bioinformatics, Cairo, Egypt. 
 
 
+![WhatsApp Image 2024-09-02 at 1 35 53 PM](https://github.com/user-attachments/assets/c84846c4-4708-4a20-8b22-348677562449)
 
 
