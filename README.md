@@ -22,7 +22,8 @@ In conclusion, supervised learning is a cornerstone of modern cancer research, o
 
 2. Esteva, A., Kuprel, B., Novoa, R. A., Ko, J., Swetter, S. M., Blau, H. M., & Thrun, S. (2017). Dermatologist-level classification of skin cancer with deep neural networks. \*Nature, 542\*(7639), 115-118. https://doi.org/10.1038/nature21056
 
-3. Tan, M., & Le, Q. V. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. In \*Proceedings of the 36th International Conference on Machine Learning\* (pp. 6105-6114). PMLR.
+3. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. (n.d.). Retrieved September 2, 2024, from https://www.researchgate.net/publication/333444574_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks
+
 
 4. Kaymak, R., Kaymak, Ç., & Uçar, A. (2020). Skin Lesion Segmentation Using Fully Convolutional Networks: A comparative experimental study. Expert Systems with Applications, 161, 113742. https://doi.org/10.1016/j.eswa.2020.113742
 
@@ -36,7 +37,7 @@ In conclusion, supervised learning is a cornerstone of modern cancer research, o
 ![WhatsApp Image 2024-09-02 at 1 35 53 PM](https://github.com/user-attachments/assets/c84846c4-4708-4a20-8b22-348677562449)
 
 
-# contributions 
+# Contributions 
 1.  Mohamed S. AboHoussien 
 
   Lab Advisor School of Medicine, Galala University
